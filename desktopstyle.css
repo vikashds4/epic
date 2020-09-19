@@ -27,7 +27,7 @@
 
     .image-container{
       width: calc(var(--vh, 1vh) * 100);
-      margin-left: 700px;
+      margin-left: 40.1%;
       
     }
 
@@ -43,8 +43,7 @@
   }
 
 .container{
-  width: calc(var(--vh, 1vh) * 75);
-  height: calc(var(--vh, 1vh) * 65);
+  width: calc(var(--vh, 1vh) * 65);
   position: absolute;
   top: 250px;
   
@@ -60,12 +59,10 @@
 
 .container>h3{
   font-size: 24px;
-  margin-bottom: 0px;
+  padding-top: 1%;
+  line-height: 4.6rem;
 }
-.dscovr-details .dscovr-image{
 
-  
-}
 .dscovr-details .dscovr-jpg{
   height: 250px;
 }
