@@ -27,7 +27,7 @@
 
     .image-container{
       width: 500px;
-      margin-left: 60%;
+      margin-left: 50%;
       
     }
 
@@ -43,7 +43,7 @@
   }
 
 .container{
-  width: 500px;
+  width: 400px;
   position: absolute;
   top: 250px;
   
