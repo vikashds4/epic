@@ -27,7 +27,7 @@
 
     .image-container{
       width: calc(var(--vh, 1vh) * 70);
-      margin-left: 60%;
+      margin-left: 50%;
       
     }
 
